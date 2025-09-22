@@ -1,13 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Open+Sans:wght@400;700&display=swap');
-
 :root {
     --primary-color: #396e94;
     --secondary-color: #e7c24f;
     --accent1-color: #a43312;
     --accent2-color: #381d2a;
     
-    --heading-font: 'Roboto', sans-serif;
-    --body-font: 'Open Sans', sans-serif;
+    --heading-font: 'Arial', 'Helvetica', sans-serif;
+    --body-font: 'Georgia', 'Times New Roman', serif;
 }
 
 * {
